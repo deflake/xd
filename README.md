@@ -1,2 +1,2 @@
-# xd
-Perplexity Dialectic
+# Perplexity Dialectic
+Open source AI research collective.
